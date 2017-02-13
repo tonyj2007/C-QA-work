@@ -1,0 +1,9 @@
+c:\users\xxton\documents\visual studio 2015\Projects\countingWords\countingWords\bin\Debug\countingWords.exe.config
+c:\users\xxton\documents\visual studio 2015\Projects\countingWords\countingWords\bin\Debug\countingWords.exe
+c:\users\xxton\documents\visual studio 2015\Projects\countingWords\countingWords\bin\Debug\countingWords.pdb
+c:\users\xxton\documents\visual studio 2015\Projects\countingWords\countingWords\obj\Debug\countingWords.csprojResolveAssemblyReference.cache
+c:\users\xxton\documents\visual studio 2015\Projects\countingWords\countingWords\obj\Debug\countingWords.Form1.resources
+c:\users\xxton\documents\visual studio 2015\Projects\countingWords\countingWords\obj\Debug\countingWords.Properties.Resources.resources
+c:\users\xxton\documents\visual studio 2015\Projects\countingWords\countingWords\obj\Debug\countingWords.csproj.GenerateResource.Cache
+c:\users\xxton\documents\visual studio 2015\Projects\countingWords\countingWords\obj\Debug\countingWords.exe
+c:\users\xxton\documents\visual studio 2015\Projects\countingWords\countingWords\obj\Debug\countingWords.pdb
