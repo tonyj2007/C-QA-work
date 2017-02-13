@@ -1,0 +1,9 @@
+c:\users\xxton\documents\visual studio 2015\Projects\capitalLetters\capitalLetters\bin\Debug\capitalLetters.exe.config
+c:\users\xxton\documents\visual studio 2015\Projects\capitalLetters\capitalLetters\bin\Debug\capitalLetters.exe
+c:\users\xxton\documents\visual studio 2015\Projects\capitalLetters\capitalLetters\bin\Debug\capitalLetters.pdb
+c:\users\xxton\documents\visual studio 2015\Projects\capitalLetters\capitalLetters\obj\Debug\capitalLetters.csprojResolveAssemblyReference.cache
+c:\users\xxton\documents\visual studio 2015\Projects\capitalLetters\capitalLetters\obj\Debug\capitalLetters.Form1.resources
+c:\users\xxton\documents\visual studio 2015\Projects\capitalLetters\capitalLetters\obj\Debug\capitalLetters.Properties.Resources.resources
+c:\users\xxton\documents\visual studio 2015\Projects\capitalLetters\capitalLetters\obj\Debug\capitalLetters.csproj.GenerateResource.Cache
+c:\users\xxton\documents\visual studio 2015\Projects\capitalLetters\capitalLetters\obj\Debug\capitalLetters.exe
+c:\users\xxton\documents\visual studio 2015\Projects\capitalLetters\capitalLetters\obj\Debug\capitalLetters.pdb
