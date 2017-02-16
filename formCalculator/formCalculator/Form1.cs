@@ -21,10 +21,10 @@ namespace formCalculator
             this.FormBorderStyle = FormBorderStyle.FixedSingle;
         }
 
-        private void button17_Click(object sender, EventArgs e)
-        {
+        //private void button17_Click(object sender, EventArgs e)
+        //{
 
-        }
+        //}
 
         private void button5_Click(object sender, EventArgs e)
         {
@@ -121,8 +121,19 @@ namespace formCalculator
                 button20.Visible = false;
                 button19.Visible = false;
                 button18.Visible = false;
-                this.Width =  this.Width - 80;
+                this.Width = this.Width - 80;
             }
+        }
+
+        private void button1_MouseEnter(object sender, EventArgs e)
+        {
+            Button b = (Button)sender;
+            label1.Text = b.AccessibleDescription;
+        }
+
+        private void button1_MouseLeave(object sender, EventArgs e)
+        {
+            label1.Text = "";
         }
 
         public void firstNumber(string b)
@@ -142,7 +153,7 @@ namespace formCalculator
         public int powerOf(int a, int b)
         {
             result = a;
-            for (int i = b-1 ; i != 0; --i)
+            for (int i = b - 1; i != 0; i--)
             {
                 result *= a;
             }
