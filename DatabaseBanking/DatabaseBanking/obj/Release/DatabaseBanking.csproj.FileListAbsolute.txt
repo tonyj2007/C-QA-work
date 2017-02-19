@@ -1,0 +1,10 @@
+C:\Users\xxton\Documents\VSProjects\DatabaseBanking\DatabaseBanking\bin\Release\DatabaseAccounting.mdf
+C:\Users\xxton\Documents\VSProjects\DatabaseBanking\DatabaseBanking\bin\Release\DatabaseAccounting_log.ldf
+C:\Users\xxton\Documents\VSProjects\DatabaseBanking\DatabaseBanking\bin\Release\DatabaseBanking.exe.config
+C:\Users\xxton\Documents\VSProjects\DatabaseBanking\DatabaseBanking\bin\Release\DatabaseBanking.exe
+C:\Users\xxton\Documents\VSProjects\DatabaseBanking\DatabaseBanking\bin\Release\DatabaseBanking.pdb
+C:\Users\xxton\Documents\VSProjects\DatabaseBanking\DatabaseBanking\obj\Release\DatabaseBanking.Form1.resources
+C:\Users\xxton\Documents\VSProjects\DatabaseBanking\DatabaseBanking\obj\Release\DatabaseBanking.Properties.Resources.resources
+C:\Users\xxton\Documents\VSProjects\DatabaseBanking\DatabaseBanking\obj\Release\DatabaseBanking.csproj.GenerateResource.Cache
+C:\Users\xxton\Documents\VSProjects\DatabaseBanking\DatabaseBanking\obj\Release\DatabaseBanking.exe
+C:\Users\xxton\Documents\VSProjects\DatabaseBanking\DatabaseBanking\obj\Release\DatabaseBanking.pdb
