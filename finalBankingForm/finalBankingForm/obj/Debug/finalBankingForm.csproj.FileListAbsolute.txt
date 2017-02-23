@@ -1,0 +1,11 @@
+c:\users\xxton\documents\visual studio 2015\Projects\finalBankingForm\finalBankingForm\bin\Debug\finalBankingForm.exe.config
+c:\users\xxton\documents\visual studio 2015\Projects\finalBankingForm\finalBankingForm\bin\Debug\Accounts.mdf
+c:\users\xxton\documents\visual studio 2015\Projects\finalBankingForm\finalBankingForm\bin\Debug\Accounts_log.ldf
+c:\users\xxton\documents\visual studio 2015\Projects\finalBankingForm\finalBankingForm\bin\Debug\finalBankingForm.exe
+c:\users\xxton\documents\visual studio 2015\Projects\finalBankingForm\finalBankingForm\bin\Debug\finalBankingForm.pdb
+c:\users\xxton\documents\visual studio 2015\Projects\finalBankingForm\finalBankingForm\obj\Debug\finalBankingForm.csprojResolveAssemblyReference.cache
+c:\users\xxton\documents\visual studio 2015\Projects\finalBankingForm\finalBankingForm\obj\Debug\finalBankingForm.Form1.resources
+c:\users\xxton\documents\visual studio 2015\Projects\finalBankingForm\finalBankingForm\obj\Debug\finalBankingForm.Properties.Resources.resources
+c:\users\xxton\documents\visual studio 2015\Projects\finalBankingForm\finalBankingForm\obj\Debug\finalBankingForm.csproj.GenerateResource.Cache
+c:\users\xxton\documents\visual studio 2015\Projects\finalBankingForm\finalBankingForm\obj\Debug\finalBankingForm.exe
+c:\users\xxton\documents\visual studio 2015\Projects\finalBankingForm\finalBankingForm\obj\Debug\finalBankingForm.pdb
