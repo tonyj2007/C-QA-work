@@ -1,0 +1,1 @@
+﻿SELECT accountId,name, (SELECT(COALESCE(sum(Transactions.depositAmount) - sum(Transactions.withdrawAmount),'0.00')) FROM Transactions WHERE Transactions.accountID = 'SF001') as balance FROM accountTable WHERE accountID = 'SF001'

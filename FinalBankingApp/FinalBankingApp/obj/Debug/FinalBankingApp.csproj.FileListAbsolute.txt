@@ -1,0 +1,11 @@
+c:\users\xxton\documents\visual studio 2015\Projects\FinalBankingApp\FinalBankingApp\bin\Debug\FinalBankingApp.exe.config
+c:\users\xxton\documents\visual studio 2015\Projects\FinalBankingApp\FinalBankingApp\bin\Debug\FinalBankingApp.exe
+c:\users\xxton\documents\visual studio 2015\Projects\FinalBankingApp\FinalBankingApp\bin\Debug\FinalBankingApp.pdb
+c:\users\xxton\documents\visual studio 2015\Projects\FinalBankingApp\FinalBankingApp\obj\Debug\FinalBankingApp.csprojResolveAssemblyReference.cache
+c:\users\xxton\documents\visual studio 2015\Projects\FinalBankingApp\FinalBankingApp\obj\Debug\FinalBankingApp.Form1.resources
+c:\users\xxton\documents\visual studio 2015\Projects\FinalBankingApp\FinalBankingApp\obj\Debug\FinalBankingApp.Properties.Resources.resources
+c:\users\xxton\documents\visual studio 2015\Projects\FinalBankingApp\FinalBankingApp\obj\Debug\FinalBankingApp.csproj.GenerateResource.Cache
+c:\users\xxton\documents\visual studio 2015\Projects\FinalBankingApp\FinalBankingApp\obj\Debug\FinalBankingApp.exe
+c:\users\xxton\documents\visual studio 2015\Projects\FinalBankingApp\FinalBankingApp\obj\Debug\FinalBankingApp.pdb
+C:\Users\xxton\Documents\Visual Studio 2015\Projects\FinalBankingApp\FinalBankingApp\bin\Debug\AccountsDB.mdf
+C:\Users\xxton\Documents\Visual Studio 2015\Projects\FinalBankingApp\FinalBankingApp\bin\Debug\AccountsDB_log.ldf
