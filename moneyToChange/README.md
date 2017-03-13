@@ -1,0 +1,1 @@
+Variable inside console application is used to represent a money amount such as £23.78p and the outcome is the money in its change values (£23.78p would be 1: £20 note, 1:£2 coin, 1:£1 coin, 1:50p coin, 1:20p coin, 1:5p coin, 1:2p coin and 1:1p coin to total £23.78p)
