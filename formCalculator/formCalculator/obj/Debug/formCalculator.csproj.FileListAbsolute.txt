@@ -7,3 +7,12 @@ c:\users\xxton\documents\visual studio 2015\Projects\formCalculator\formCalculat
 c:\users\xxton\documents\visual studio 2015\Projects\formCalculator\formCalculator\obj\Debug\formCalculator.exe
 c:\users\xxton\documents\visual studio 2015\Projects\formCalculator\formCalculator\obj\Debug\formCalculator.pdb
 c:\users\xxton\documents\visual studio 2015\Projects\formCalculator\formCalculator\obj\Debug\formCalculator.csprojResolveAssemblyReference.cache
+C:\Users\xxton\Desktop\QA\formCalculator\formCalculator\bin\Debug\formCalculator.exe.config
+C:\Users\xxton\Desktop\QA\formCalculator\formCalculator\obj\Debug\formCalculator.exe
+C:\Users\xxton\Desktop\QA\formCalculator\formCalculator\obj\Debug\formCalculator.pdb
+C:\Users\xxton\Desktop\QA\formCalculator\formCalculator\bin\Debug\formCalculator.exe
+C:\Users\xxton\Desktop\QA\formCalculator\formCalculator\bin\Debug\formCalculator.pdb
+C:\Users\xxton\Desktop\QA\formCalculator\formCalculator\obj\Debug\formCalculator.csprojResolveAssemblyReference.cache
+C:\Users\xxton\Desktop\QA\formCalculator\formCalculator\obj\Debug\formCalculator.Form1.resources
+C:\Users\xxton\Desktop\QA\formCalculator\formCalculator\obj\Debug\formCalculator.Properties.Resources.resources
+C:\Users\xxton\Desktop\QA\formCalculator\formCalculator\obj\Debug\formCalculator.csproj.GenerateResource.Cache

@@ -3,3 +3,6 @@ c:\users\xxton\documents\visual studio 2015\Projects\NumberToBinary\NumberToBina
 c:\users\xxton\documents\visual studio 2015\Projects\NumberToBinary\NumberToBinary\bin\Debug\NumberToBinary.pdb
 c:\users\xxton\documents\visual studio 2015\Projects\NumberToBinary\NumberToBinary\obj\Debug\NumberToBinary.exe
 c:\users\xxton\documents\visual studio 2015\Projects\NumberToBinary\NumberToBinary\obj\Debug\NumberToBinary.pdb
+C:\Users\xxton\Desktop\QA\NumberToBinary\NumberToBinary\bin\Debug\NumberToBinary.exe.config
+C:\Users\xxton\Desktop\QA\NumberToBinary\NumberToBinary\obj\Debug\NumberToBinary.exe
+C:\Users\xxton\Desktop\QA\NumberToBinary\NumberToBinary\obj\Debug\NumberToBinary.pdb

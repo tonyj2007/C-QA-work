@@ -4,6 +4,10 @@ namespace numToString
 {
     class driver
     {
+        /**
+        program uses the variable testNumber (changed with the program not user input) and turns the number into the 
+            string representation e.g.(510 will be turned into five hundred ten)
+            */
         static void Main(String[] args)
         {
             converter c = new converter();
@@ -22,6 +26,11 @@ namespace numToString
 
         public void convert()
         {
+            /**
+            convert function used to change the numbers and figure out if the numbers are singles, tens, hundreds or thousand
+            to avoid all zeros from being read a zero when it might be part of a bigger number e.g. 10 after the number 10 has been converted
+            the number 1 from 10 is removed from the original testNumber and the following zero's up until another number/end of number are trimmed.
+            */
             try
             {
                 int temp = Convert.ToInt32(Convert.ToString(number));

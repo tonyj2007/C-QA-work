@@ -4,3 +4,6 @@ c:\users\xxton\documents\visual studio 2015\Projects\moneyToChange\moneyToChange
 c:\users\xxton\documents\visual studio 2015\Projects\moneyToChange\moneyToChange\obj\Debug\moneyToChange.exe
 c:\users\xxton\documents\visual studio 2015\Projects\moneyToChange\moneyToChange\obj\Debug\moneyToChange.pdb
 C:\Users\xxton\Documents\Visual Studio 2015\Projects\moneyToChange\moneyToChange\obj\Debug\moneyToChange.csprojResolveAssemblyReference.cache
+C:\Users\xxton\Desktop\QA\moneyToChange\moneyToChange\bin\Debug\moneyToChange.exe.config
+C:\Users\xxton\Desktop\QA\moneyToChange\moneyToChange\obj\Debug\moneyToChange.exe
+C:\Users\xxton\Desktop\QA\moneyToChange\moneyToChange\obj\Debug\moneyToChange.pdb

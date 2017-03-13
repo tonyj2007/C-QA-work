@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="WeatherApp3.WeatherApp3" android:versionCode="1" android:versionName="1.0">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="16" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <application android:label="WeatherApp3" android:theme="@android:style/Theme.Material.Light" android:name="android.app.Application" android:allowBackup="true" android:debuggable="true">
+    <activity android:label="Display Weather" android:name="md5d5f921c8071fd1bc8d1ff446aa88d187.DisplayWeather" />
+    <activity android:label="Home" android:name="md5d5f921c8071fd1bc8d1ff446aa88d187.HomeActivity" />
+    <activity android:noHistory="true" android:theme="@style/Theme.Splash" android:name="md5d5f921c8071fd1bc8d1ff446aa88d187.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="WeatherApp3.WeatherApp3.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.WeatherApp3.WeatherApp3" />
+      </intent-filter>
+    </receiver>
+  </application>
+</manifest>

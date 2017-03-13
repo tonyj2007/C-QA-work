@@ -7,3 +7,12 @@ c:\users\xxton\documents\visual studio 2015\Projects\capitalLetters\capitalLette
 c:\users\xxton\documents\visual studio 2015\Projects\capitalLetters\capitalLetters\obj\Debug\capitalLetters.csproj.GenerateResource.Cache
 c:\users\xxton\documents\visual studio 2015\Projects\capitalLetters\capitalLetters\obj\Debug\capitalLetters.exe
 c:\users\xxton\documents\visual studio 2015\Projects\capitalLetters\capitalLetters\obj\Debug\capitalLetters.pdb
+C:\Users\xxton\Desktop\QA\capitalLetters\capitalLetters\bin\Debug\capitalLetters.exe.config
+C:\Users\xxton\Desktop\QA\capitalLetters\capitalLetters\obj\Debug\capitalLetters.exe
+C:\Users\xxton\Desktop\QA\capitalLetters\capitalLetters\obj\Debug\capitalLetters.pdb
+C:\Users\xxton\Desktop\QA\capitalLetters\capitalLetters\bin\Debug\capitalLetters.exe
+C:\Users\xxton\Desktop\QA\capitalLetters\capitalLetters\bin\Debug\capitalLetters.pdb
+C:\Users\xxton\Desktop\QA\capitalLetters\capitalLetters\obj\Debug\capitalLetters.csprojResolveAssemblyReference.cache
+C:\Users\xxton\Desktop\QA\capitalLetters\capitalLetters\obj\Debug\capitalLetters.Form1.resources
+C:\Users\xxton\Desktop\QA\capitalLetters\capitalLetters\obj\Debug\capitalLetters.Properties.Resources.resources
+C:\Users\xxton\Desktop\QA\capitalLetters\capitalLetters\obj\Debug\capitalLetters.csproj.GenerateResource.Cache

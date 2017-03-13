@@ -4,3 +4,9 @@ c:\users\xxton\documents\visual studio 2015\Projects\numToString\numToString\bin
 c:\users\xxton\documents\visual studio 2015\Projects\numToString\numToString\obj\Debug\numToString.exe
 c:\users\xxton\documents\visual studio 2015\Projects\numToString\numToString\obj\Debug\numToString.pdb
 C:\Users\xxton\Documents\Visual Studio 2015\Projects\numToString\numToString\obj\Debug\numToString.csprojResolveAssemblyReference.cache
+C:\Users\xxton\Desktop\QA\numToString\bin\Debug\numToString.exe.config
+C:\Users\xxton\Desktop\QA\numToString\obj\Debug\numToString.exe
+C:\Users\xxton\Desktop\QA\numToString\obj\Debug\numToString.pdb
+C:\Users\xxton\Desktop\QA\numToString\bin\Debug\numToString.exe
+C:\Users\xxton\Desktop\QA\numToString\bin\Debug\numToString.pdb
+C:\Users\xxton\Desktop\QA\numToString\obj\Debug\numToString.csprojResolveAssemblyReference.cache

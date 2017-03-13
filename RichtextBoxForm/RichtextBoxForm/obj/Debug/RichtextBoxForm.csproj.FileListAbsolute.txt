@@ -1,0 +1,9 @@
+c:\users\xxton\documents\visual studio 2015\Projects\RichtextBoxForm\RichtextBoxForm\bin\Debug\RichtextBoxForm.exe.config
+c:\users\xxton\documents\visual studio 2015\Projects\RichtextBoxForm\RichtextBoxForm\bin\Debug\RichtextBoxForm.exe
+c:\users\xxton\documents\visual studio 2015\Projects\RichtextBoxForm\RichtextBoxForm\bin\Debug\RichtextBoxForm.pdb
+c:\users\xxton\documents\visual studio 2015\Projects\RichtextBoxForm\RichtextBoxForm\obj\Debug\RichtextBoxForm.csprojResolveAssemblyReference.cache
+c:\users\xxton\documents\visual studio 2015\Projects\RichtextBoxForm\RichtextBoxForm\obj\Debug\RichtextBoxForm.Form1.resources
+c:\users\xxton\documents\visual studio 2015\Projects\RichtextBoxForm\RichtextBoxForm\obj\Debug\RichtextBoxForm.Properties.Resources.resources
+c:\users\xxton\documents\visual studio 2015\Projects\RichtextBoxForm\RichtextBoxForm\obj\Debug\RichtextBoxForm.csproj.GenerateResource.Cache
+c:\users\xxton\documents\visual studio 2015\Projects\RichtextBoxForm\RichtextBoxForm\obj\Debug\RichtextBoxForm.exe
+c:\users\xxton\documents\visual studio 2015\Projects\RichtextBoxForm\RichtextBoxForm\obj\Debug\RichtextBoxForm.pdb

@@ -3,6 +3,13 @@ using System.Collections.Generic;
 
 namespace moneyToChange
 {
+    /**
+    console application that takes a given double to two digits in the form of the moneyAmount variable (represents a money value such as £23.74P)
+        the moneyAmount variable is then transformed into the amount of change you will get from that number e.g.(£21.50 would give 1:£20 note, 1:£1 coin and 1:50p coin)
+        Driver class creates a dictionary with the values of money and what they are worth in a (key,value pair),
+        then uses the dictionary to work out what change is needed with the changeDue method and finally prints the change
+        that would be given by using the printDictonary method.
+        */
     class Driver
     {
         static void Main(string[] args)

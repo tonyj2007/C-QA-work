@@ -9,3 +9,6 @@ c:\users\xxton\documents\visual studio 2015\Projects\FinalBankingApp\FinalBankin
 c:\users\xxton\documents\visual studio 2015\Projects\FinalBankingApp\FinalBankingApp\obj\Debug\FinalBankingApp.pdb
 C:\Users\xxton\Documents\Visual Studio 2015\Projects\FinalBankingApp\FinalBankingApp\bin\Debug\AccountsDB.mdf
 C:\Users\xxton\Documents\Visual Studio 2015\Projects\FinalBankingApp\FinalBankingApp\bin\Debug\AccountsDB_log.ldf
+C:\Users\xxton\Desktop\QA\FinalBankingApp\FinalBankingApp\bin\Debug\FinalBankingApp.exe.config
+C:\Users\xxton\Desktop\QA\FinalBankingApp\FinalBankingApp\obj\Debug\FinalBankingApp.exe
+C:\Users\xxton\Desktop\QA\FinalBankingApp\FinalBankingApp\obj\Debug\FinalBankingApp.pdb

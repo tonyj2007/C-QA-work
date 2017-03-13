@@ -1,0 +1,6 @@
+c:\users\xxton\documents\visual studio 2015\Projects\sum of digits in number\sum of digits in number\bin\Debug\sum of digits in number.exe.config
+c:\users\xxton\documents\visual studio 2015\Projects\sum of digits in number\sum of digits in number\bin\Debug\sum of digits in number.exe
+c:\users\xxton\documents\visual studio 2015\Projects\sum of digits in number\sum of digits in number\bin\Debug\sum of digits in number.pdb
+c:\users\xxton\documents\visual studio 2015\Projects\sum of digits in number\sum of digits in number\obj\Debug\sum of digits in number.exe
+c:\users\xxton\documents\visual studio 2015\Projects\sum of digits in number\sum of digits in number\obj\Debug\sum of digits in number.pdb
+C:\Users\xxton\Documents\Visual Studio 2015\Projects\sum of digits in number\sum of digits in number\obj\Debug\sum of digits in number.csprojResolveAssemblyReference.cache

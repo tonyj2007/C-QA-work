@@ -3,6 +3,9 @@ using System.Windows.Forms;
 
 namespace FinalBankingApp
 {
+    /**
+    banking application using windows forms and a database/dataset to store accounts
+        */
     public partial class Form1 : Form
     {
         private char gender, accountType, transferType;
@@ -10,10 +13,13 @@ namespace FinalBankingApp
 
         public Form1()
         {
+            /**
+            fixed border cannot be resized
+            */
             InitializeComponent();
             this.FormBorderStyle = FormBorderStyle.FixedSingle;
         }
-
+        
         private void radioButton2_CheckedChanged(object sender, EventArgs e)
         {
             gender = 'F';
@@ -36,12 +42,16 @@ namespace FinalBankingApp
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            /**
+            calls the function that deals with the connection to the database 
+            */
             connectToDb();
             
         }
 
         private void viewAllAccountsToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            //tool strip option
             changeForm("view");
             clearText();
             cmd.CommandText = "SELECT * FROM accountTable";
@@ -49,12 +59,15 @@ namespace FinalBankingApp
             r = cmd.ExecuteReader();
         }
 
-        private void button2_Click(object sender, EventArgs e)
-        {
-        }
+        //private void button2_Click(object sender, EventArgs e)
+        //{
+        //}
 
         private void button1_Click(object sender, EventArgs e)
         {
+            /**
+            function used to add accounts to the database using sql queries
+            */
             cmd.CommandText = "SELECT CONCAT('" + accountType + "', '" + gender + "', FORMAT(COALESCE(MAX(SUBSTRING(accountID, 3, 3) + 1), '001'), '000'))AS numbers FROM accountTable WHERE accountID like '" + accountType + "%'";
             r = cmd.ExecuteReader();
             if (r.Read())
@@ -73,6 +86,7 @@ namespace FinalBankingApp
 
         private void viewSavingsAccountsToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            //tool strip option
             clearText();
             changeForm("view");
             try { r.Close(); } catch (Exception) { }
@@ -82,6 +96,7 @@ namespace FinalBankingApp
 
         private void viewCurrentAccountsToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            //tool strip option
             clearText();
             changeForm("view");
             try { r.Close(); } catch (Exception) { }
@@ -91,6 +106,7 @@ namespace FinalBankingApp
 
         private void addAccountToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            //tool strip option
             clearText();
             try { r.Close(); } catch (Exception) { }
             changeForm("add");
@@ -98,6 +114,9 @@ namespace FinalBankingApp
 
         private void button2_Click_1(object sender, EventArgs e)
         {
+            /**
+            function used to show all records that are with the database
+            */
             if (r.Read())
             {
                 textBox3.Text = r["accountID"].ToString();
@@ -111,6 +130,9 @@ namespace FinalBankingApp
         }
         public void changeForm(string x)
         {
+            /**
+            method used to change the view of the form depending on what option it is they are trying to do, e.g. add an account or view all accounts
+            */
             if (x == "view" && tableLayoutPanel2.Visible == false)
             {
                 tableLayoutPanel1.Visible = false;
@@ -160,6 +182,7 @@ namespace FinalBankingApp
 
         private void checkBalanceToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            //tool strip option
             clearText();
             try { r.Close(); } catch (Exception) { }
             changeForm("balance");
@@ -168,6 +191,9 @@ namespace FinalBankingApp
 
         private void button3_Click(object sender, EventArgs e)
         {
+            /**
+            gets the balance of an account based on an input id number and displays information about the account
+            */
             string tempAccNum = textBox7.Text;
             cmd.CommandText = "SELECT accountID,name, (SELECT(COALESCE(sum(Transactions.depositAmount) - sum(Transactions.withdrawAmount),'0.00')) FROM Transactions WHERE Transactions.accountID = '"+tempAccNum+"') as balance FROM accountTable WHERE accountID = '"+ tempAccNum+"'";
             r = cmd.ExecuteReader();
@@ -182,6 +208,7 @@ namespace FinalBankingApp
 
         private void withdrawToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            //tool strip option
             clearText();
             transferType = 'W';
             try { r.Close(); } catch (Exception) { }
@@ -190,6 +217,7 @@ namespace FinalBankingApp
 
         private void depositToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            //tool strip option
             clearText();
             transferType = 'D';
             try { r.Close(); } catch (Exception) { }
@@ -198,6 +226,9 @@ namespace FinalBankingApp
 
         private void button4_Click(object sender, EventArgs e)
         {
+            /**
+            function used for depositing money into an account, takes an id number and a deposit amount
+            */
             string depositAmount = textBox9.Text;
             string ID = textBox10.Text;
             cmd.CommandText = "SELECT CONCAT('" + transferType + "', FORMAT(COALESCE(MAX(SUBSTRING(transactionID, 3, 3) + 1), '001'), '000'))AS numbers FROM Transactions WHERE transactionID like '" + transferType + "%'";
@@ -217,11 +248,17 @@ namespace FinalBankingApp
 
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
         {
+            /**
+            closes database connection on form close
+            */
             con.Close();            
         }
 
         private void button5_Click(object sender, EventArgs e)
         {
+            /**
+            function used for withdrawing money from accounts, takes an account ID and a withdraw amount
+            */
             string depositAmount = textBox12.Text;
             string ID = textBox13.Text;
             cmd.CommandText = "SELECT CONCAT('" + transferType + "', FORMAT(COALESCE(MAX(SUBSTRING(transactionID, 3, 3) + 1), '001'), '000'))AS numbers FROM Transactions WHERE transactionID like '" + transferType + "%'";
@@ -241,6 +278,9 @@ namespace FinalBankingApp
 
         public void clearText()
         {
+            /**
+            used to clear all text on form view change
+            */
             textBox1.Clear();
             textBox2.Clear();
             textBox3.Clear();
