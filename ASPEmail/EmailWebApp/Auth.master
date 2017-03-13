@@ -1,0 +1,12 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Default.Master" AutoEventWireup="true" CodeBehind="Auth.master.cs" Inherits="EmailWebApp.Auth" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+    <!--Auth Master Used-->
+    <asp:ContentPlaceHolder ID="authhead" runat="server">
+        <!-- Head content gets placed here -->
+    </asp:ContentPlaceHolder>
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+    <asp:ContentPlaceHolder ID="AuthContentPlaceHolder1" runat="server">
+            <!-- Body content gets placed here -->
+        </asp:ContentPlaceHolder>
+</asp:Content>
